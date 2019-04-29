@@ -1,7 +1,21 @@
-## 1933 - CRIANDO BACKENDS ROBUSTOS COM WEBAPI ##
-Aprenda a compartilhar regras de negócio através de uma API
+# 1933 - Criando Backends Robustos com WebAPI #
+Repositório do curso **Criando Backends Robustos com WebAPI** da plataforma https://balta.io.
 
-### Conteúdo Programático ###
+Autor: André Baltieri
+
+Link: https://balta.io/cursos/1933
+
+## Projeto construído com: ##
+* C#
+* ASP.NET MVC
+* API REST
+* Angular
+* Design Patterns
+* SOLID
+* DDD
+* Clean Code
+
+## Conteúdo Programático ##
 * Modelando o domínio
 * Repository Pattern
 * Dependency Injection
@@ -13,12 +27,7 @@ Aprenda a compartilhar regras de negócio através de uma API
 * Performance e Padronização
 * Publicando a API
 
-### Vídeos ###
-* http://treinamentos.andrebaltieri.net/#/courses/1933-A
-* http://treinamentos.andrebaltieri.net/#/courses/1933-B
-* http://treinamentos.andrebaltieri.net/#/courses/1933-C
+---
+balta.io - Develop Your Career
 
-### Assine o Site ###
-Faça este e outros treinamentos por apenas R$ 59,90 mensais! Cancele quando quiser e ainda desfrute de treinamentos mensais online, ao vivo e de graça!
-
-http://assine.andrebaltieri.net/
+Conheça todos os cursos da plataforma em https://balta.io/cursos
